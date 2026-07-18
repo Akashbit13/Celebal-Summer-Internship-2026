@@ -1,0 +1,13 @@
+user_id,transaction_date,region,product_category,sale_amount,city,age,subscription,status,price,store_id,email,username,raw_timestamp
+101,2026-07-01,West,Electronics,25000,Mumbai,25,Premium,Completed,25000,S101,akash1@gmail.com,akash01,2026-07-01 10:30:00
+102,2026-07-01,East,Furniture,12000,Kolkata,32,Basic,Completed,12000,S102,rahul@gmail.com,rahul12,2026-07-01 11:00:00
+103,2026-07-02,West,Electronics,18000,Pune,28,Premium,,18000,S101,priya@gmail.com,priya22,2026-07-02 09:15:00
+104,2026-07-02,South,Clothing,5000,Chennai,22,Basic,Completed,5000,S103,sneha@gmail.com,sneha10,2026-07-02 12:00:00
+105,2026-07-03,North,Grocery,3000,Delhi,35,Premium,Pending,3000,S104,,amit99,2026-07-03 08:20:00
+106,2026-07-03,West,Furniture,15000,Mumbai,27,Premium,Completed,15000,S101,neha@gmail.com,,2026-07-03 10:45:00
+107,2026-07-04,East,Electronics,22000,Kolkata,24,Premium,Completed,22000,S102,rohit@gmail.com,rohit45,2026-07-04 11:30:00
+108,2026-07-04,South,Grocery,2800,Bangalore,30,Basic,Completed,2800,S103,kiran@gmail.com,kiran11,2026-07-04 04:10:00
+109,2026-07-05,West,Clothing,6500,Mumbai,19,Premium,,6500,S101,riya@gmail.com,riya07,2026-07-05 03:40:00
+110,2026-07-05,North,Electronics,27000,Delhi,29,Premium,Completed,27000,S104,vikas@gmail.com,vikas18,2026-07-05 02:15:00
+101,2026-07-01,West,Electronics,25000,Mumbai,25,Premium,Completed,25000,S101,akash1@gmail.com,akash01,2026-07-01 10:30:00
+106,2026-07-03,West,Furniture,15000,Mumbai,27,Premium,Completed,15000,S101,neha@gmail.com,,2026-07-03 10:45:00
