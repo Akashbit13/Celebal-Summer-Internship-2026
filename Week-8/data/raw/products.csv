@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Shirt,Clothing,Clothing Items,1818.86
+PROD0002,Chair,Home,Home Items,1248.4
+PROD0003,Hoodie,Clothing,Clothing Items,2208.32
+PROD0004,   SOFA   ,Home,Home Items,1106.18
+PROD0005,Bluetooth Speaker,Electronics,Electronics Items,4005.32
+PROD0006,Mobile Phone,Electronics,Electronics Items,1508.77
+PROD0007,Chair,Home,Home Items,4124.76
+PROD0008,Python Basics,Books,Books Items,1493.28
+PROD0009,Jeans,Clothing,Clothing Items,1880.52
+PROD0010,Bed,Home,Home Items,3489.14
+PROD0011,Shirt,Clothing,Clothing Items,1507.62
+PROD0012,Python Basics,Books,Books Items,1490.39
+PROD0013,T-Shirt,Clothing,Clothing Items,3846.66
+PROD0014,Smart Watch,Electronics,Electronics Items,1944.81
+PROD0015,SQL Guide,Books,Books Items,4633.04
+PROD0016,Chair,Home,Home Items,2538.67
+PROD0017,Sofa,Home,Home Items,4724.49
+PROD0018,Jeans,Clothing,Clothing Items,2956.42
+PROD0019,Bluetooth Speaker,Electronics,Electronics Items,4985.51
+PROD0020,Bed,Home,Home Items,3446.84
+PROD0021,Machine Learning,Books,Books Items,644.38
+PROD0022,Sofa,Home,Home Items,2369.82
+PROD0023,Jeans,Clothing,Clothing Items,2116.15
+PROD0024,Bluetooth Speaker,Electronics,Electronics Items,3320.42
+PROD0025,Laptop,Electronics,Electronics Items,1846.84
+PROD0026,Bluetooth Speaker,Electronics,Electronics Items,2114.7
+PROD0027,   LAMP   ,Home,Home Items,205.56
+PROD0028,SQL Guide,Books,Books Items,3255.4
+PROD0029,Jeans,Clothing,Clothing Items,1785.37
+PROD0030,SQL Guide,Books,Books Items,3587.7
+PROD0031,Laptop,Electronics,Electronics Items,1841.91
+PROD0032,Laptop,Electronics,Electronics Items,736.31
+PROD0033,Shirt,Clothing,Clothing Items,4901.12
+PROD0034,SQL Guide,Books,Books Items,2747.84
+PROD0035,Lamp,Home,Home Items,1538.07
+PROD0036,Data Science,Books,Books Items,2508.8
+PROD0037,Sofa,Home,Home Items,2668.97
+PROD0038,Machine Learning,Books,Books Items,2398.01
+PROD0039,Lamp,Home,Home Items,3416.42
+PROD0040,Python Basics,Books,Books Items,4650.08
+PROD0041,Mobile Phone,Electronics,Electronics Items,4590.32
+PROD0042,Laptop,Electronics,Electronics Items,478.78
+PROD0043,T-Shirt,Clothing,Clothing Items,1747.8
+PROD0044,T-Shirt,Clothing,Clothing Items,3358.5
+PROD0045,Jeans,Clothing,Clothing Items,834.32
+PROD0046,Dining Table,Home,Home Items,4047.17
+PROD0047,Sofa,Home,Home Items,290.8
+PROD0048,Data Science,Books,Books Items,4283.16
+PROD0049,Laptop,Electronics,Electronics Items,4742.52
+PROD0050,T-Shirt,Clothing,Clothing Items,3396.98
+PROD0051,Sofa,Home,Home Items,1835.86
+PROD0052,   LAPTOP   ,Electronics,Electronics Items,1320.87
+PROD0053,Chair,Home,Home Items,2507.79
+PROD0054,Jacket,Clothing,Clothing Items,787.23
+PROD0055,Jacket,Clothing,Clothing Items,3826.84
+PROD0056,Headphones,Electronics,Electronics Items,1708.6
+PROD0057,Python Basics,Books,Books Items,2755.1
+PROD0058,Shirt,Clothing,Clothing Items,1189.82
+PROD0059,   SHIRT   ,Clothing,Clothing Items,860.7
+PROD0060,Shirt,Clothing,Clothing Items,2376.18
+PROD0061,Laptop,Electronics,Electronics Items,3732.9
+PROD0062,Shirt,Clothing,Clothing Items,3463.62
+PROD0063,Smart Watch,Electronics,Electronics Items,150.7
+PROD0064,Sofa,Home,Home Items,2396.04
+PROD0065,Jacket,Clothing,Clothing Items,4458.0
+PROD0066,T-Shirt,Clothing,Clothing Items,4598.8
+PROD0067,T-Shirt,Clothing,Clothing Items,3268.31
+PROD0068,Jeans,Clothing,Clothing Items,2960.1
+PROD0069,Hoodie,Clothing,Clothing Items,2431.87
+PROD0070,Sofa,Home,Home Items,3427.3
+PROD0071,Jacket,Clothing,Clothing Items,745.64
+PROD0072,Shirt,Clothing,Clothing Items,4083.83
+PROD0073,Bluetooth Speaker,Electronics,Electronics Items,4097.27
+PROD0074,Mobile Phone,Electronics,Electronics Items,1314.48
+PROD0075,Smart Watch,Electronics,Electronics Items,3638.48
+PROD0076,T-Shirt,Clothing,Clothing Items,4559.7
+PROD0077,Mobile Phone,Electronics,Electronics Items,3620.87
+PROD0078,Dining Table,Home,Home Items,2156.56
+PROD0079,Shirt,Clothing,Clothing Items,2054.32
+PROD0080,Chair,Home,Home Items,598.63
+PROD0081,Shirt,Clothing,Clothing Items,4788.27
+PROD0082,Smart Watch,Electronics,Electronics Items,142.7
+PROD0083,Jacket,Clothing,Clothing Items,758.33
+PROD0084,Web Development,Books,Books Items,1262.35
+PROD0085,Sofa,Home,Home Items,1093.8
+PROD0086,Jeans,Clothing,Clothing Items,4628.94
+PROD0087,Jeans,Clothing,Clothing Items,2601.26
+PROD0088,Chair,Home,Home Items,264.96
+PROD0089,Chair,Home,Home Items,734.69
+PROD0090,Sofa,Home,Home Items,2739.38
+PROD0091,Lamp,Home,Home Items,1925.26
+PROD0092,Lamp,Home,Home Items,3759.48
+PROD0093,Bluetooth Speaker,Electronics,Electronics Items,2889.58
+PROD0094,Mobile Phone,Electronics,Electronics Items,466.33
+PROD0095,Hoodie,Clothing,Clothing Items,1712.37
+PROD0096,Machine Learning,Books,Books Items,3903.08
+PROD0097,SQL Guide,Books,Books Items,722.96
+PROD0098,Web Development,Books,Books Items,695.45
+PROD0099,Shirt,Clothing,Clothing Items,1138.58
+PROD0100,Jacket,Clothing,Clothing Items,2056.66
+PROD0101,Shirt,Clothing,Clothing Items,483.02
+PROD0102,Shirt,Clothing,Clothing Items,253.35
+PROD0103,Web Development,Books,Books Items,1424.36
+PROD0104,Bed,Home,Home Items,4072.24
+PROD0105,Bed,Home,Home Items,2531.44
+PROD0106,Dining Table,Home,Home Items,1225.05
+PROD0107,Smart Watch,Electronics,Electronics Items,1168.88
+PROD0108,Sofa,Home,Home Items,1993.53
+PROD0109,T-Shirt,Clothing,Clothing Items,406.75
+PROD0110,Lamp,Home,Home Items,2342.83
+PROD0111,Sofa,Home,Home Items,2419.38
+PROD0112,Jeans,Clothing,Clothing Items,2922.01
+PROD0113,Chair,Home,Home Items,3153.14
+PROD0114,Chair,Home,Home Items,2120.39
+PROD0115,Headphones,Electronics,Electronics Items,2579.72
+PROD0116,Bed,Home,Home Items,3400.37
+PROD0117,T-Shirt,Clothing,Clothing Items,3001.56
+PROD0118,Headphones,Electronics,Electronics Items,3593.28
+PROD0119,Lamp,Home,Home Items,1526.27
+PROD0120,Jacket,Clothing,Clothing Items,2117.42
+PROD0121,Web Development,Books,Books Items,2919.4
+PROD0122,Headphones,Electronics,Electronics Items,3538.53
+PROD0123,Web Development,Books,Books Items,2602.03
+PROD0124,Mobile Phone,Electronics,Electronics Items,3990.62
+PROD0125,Dining Table,Home,Home Items,2379.65
+PROD0126,T-Shirt,Clothing,Clothing Items,2250.99
+PROD0127,Hoodie,Clothing,Clothing Items,251.29
+PROD0128,Headphones,Electronics,Electronics Items,2975.17
+PROD0129,Jacket,Clothing,Clothing Items,1891.39
+PROD0130,Web Development,Books,Books Items,2093.09
+PROD0131,Data Science,Books,Books Items,3991.2
+PROD0132,T-Shirt,Clothing,Clothing Items,3609.96
+PROD0133,Smart Watch,Electronics,Electronics Items,3305.64
+PROD0134,Smart Watch,Electronics,Electronics Items,4340.0
+PROD0135,T-Shirt,Clothing,Clothing Items,3149.5
+PROD0136,Shirt,Clothing,Clothing Items,2760.89
+PROD0137,SQL Guide,Books,Books Items,3473.65
+PROD0138,Jeans,Clothing,Clothing Items,1568.6
+PROD0139,Data Science,Books,Books Items,4220.92
+PROD0140,T-Shirt,Clothing,Clothing Items,4018.08
+PROD0141,Mobile Phone,Electronics,Electronics Items,1011.54
+PROD0142,Bluetooth Speaker,Electronics,Electronics Items,4395.5
+PROD0143,Mobile Phone,Electronics,Electronics Items,4320.04
+PROD0144,Dining Table,Home,Home Items,4717.45
+PROD0145,Bluetooth Speaker,Electronics,Electronics Items,4548.23
+PROD0146,Machine Learning,Books,Books Items,2225.8
+PROD0147,Bluetooth Speaker,Electronics,Electronics Items,1159.56
+PROD0148,Headphones,Electronics,Electronics Items,3200.32
+PROD0149,SQL Guide,Books,Books Items,233.43
+PROD0150,Sofa,Home,Home Items,2785.91
+PROD0151,Hoodie,Clothing,Clothing Items,2774.85
+PROD0152,Lamp,Home,Home Items,4891.27
+PROD0153,Smart Watch,Electronics,Electronics Items,4786.98
+PROD0154,Mobile Phone,Electronics,Electronics Items,2492.48
+PROD0155,Python Basics,Books,Books Items,2416.18
+PROD0156,Shirt,Clothing,Clothing Items,3683.42
+PROD0157,T-Shirt,Clothing,Clothing Items,4105.09
+PROD0158,Sofa,Home,Home Items,4343.93
+PROD0159,Sofa,Home,Home Items,4761.26
+PROD0160,Bluetooth Speaker,Electronics,Electronics Items,1056.57
+PROD0161,Dining Table,Home,Home Items,3653.46
+PROD0162,Jacket,Clothing,Clothing Items,1579.41
+PROD0163,Jeans,Clothing,Clothing Items,2610.54
+PROD0164,Smart Watch,Electronics,Electronics Items,2592.46
+PROD0165,SQL Guide,Books,Books Items,3269.29
+PROD0166,Lamp,Home,Home Items,4330.85
+PROD0167,Lamp,Home,Home Items,3348.53
+PROD0168,Sofa,Home,Home Items,1003.87
+PROD0169,SQL Guide,Books,Books Items,3649.35
+PROD0170,Dining Table,Home,Home Items,1932.31
+PROD0171,Chair,Home,Home Items,2020.16
+PROD0172,Jeans,Clothing,Clothing Items,1142.89
+PROD0173,SQL Guide,Books,Books Items,3877.87
+PROD0174,Web Development,Books,Books Items,2020.45
+PROD0175,Python Basics,Books,Books Items,4607.16
+PROD0176,Sofa,Home,Home Items,4920.44
+PROD0177,Smart Watch,Electronics,Electronics Items,3167.81
+PROD0178,Hoodie,Clothing,Clothing Items,2814.32
+PROD0179,Machine Learning,Books,Books Items,3212.44
+PROD0180,Lamp,Home,Home Items,4168.78
+PROD0181,Shirt,Clothing,Clothing Items,521.1
+PROD0182,Bed,Home,Home Items,246.34
+PROD0183,Chair,Home,Home Items,3858.13
+PROD0184,Mobile Phone,Electronics,Electronics Items,2831.65
+PROD0185,Bed,Home,Home Items,3800.34
+PROD0186,T-Shirt,Clothing,Clothing Items,2694.56
+PROD0187,Chair,Home,Home Items,3024.3
+PROD0188,Data Science,Books,Books Items,2991.02
+PROD0189,Headphones,Electronics,Electronics Items,486.5
+PROD0190,Jacket,Clothing,Clothing Items,2090.21
+PROD0191,Web Development,Books,Books Items,983.93
+PROD0192,   DATA SCIENCE   ,Books,Books Items,3821.44
+PROD0193,Bluetooth Speaker,Electronics,Electronics Items,1915.19
+PROD0194,Laptop,Electronics,Electronics Items,3251.56
+PROD0195,Jacket,Clothing,Clothing Items,1319.46
+PROD0196,Hoodie,Clothing,Clothing Items,2247.3
+PROD0197,Dining Table,Home,Home Items,233.42
+PROD0198,Smart Watch,Electronics,Electronics Items,1762.13
+PROD0199,Machine Learning,Books,Books Items,3097.57
+PROD0200,Web Development,Books,Books Items,768.72
+PROD0201,T-Shirt,Clothing,Clothing Items,4928.71
+PROD0202,T-Shirt,Clothing,Clothing Items,811.14
+PROD0203,Dining Table,Home,Home Items,4381.04
+PROD0204,Dining Table,Home,Home Items,3525.48
+PROD0205,Bed,Home,Home Items,4845.85
+PROD0206,Bed,Home,Home Items,1745.33
+PROD0207,Mobile Phone,Electronics,Electronics Items,1252.29
+PROD0208,Bed,Home,Home Items,4281.02
+PROD0209,Jacket,Clothing,Clothing Items,232.88
+PROD0210,Jeans,Clothing,Clothing Items,3804.14
+PROD0211,   LAMP   ,Home,Home Items,3556.6
+PROD0212,Hoodie,Clothing,Clothing Items,4030.95
+PROD0213,Jeans,Clothing,Clothing Items,4354.63
+PROD0214,Bluetooth Speaker,Electronics,Electronics Items,3049.22
+PROD0215,Jeans,Clothing,Clothing Items,3588.45
+PROD0216,Bed,Home,Home Items,3501.07
+PROD0217,Jacket,Clothing,Clothing Items,3794.34
+PROD0218,Jacket,Clothing,Clothing Items,2365.08
+PROD0219,Smart Watch,Electronics,Electronics Items,1493.98
+PROD0220,Mobile Phone,Electronics,Electronics Items,3173.45
+PROD0221,Web Development,Books,Books Items,2144.97
+PROD0222,Web Development,Books,Books Items,4232.89
+PROD0223,Python Basics,Books,Books Items,4560.9
+PROD0224,Jeans,Clothing,Clothing Items,2170.1
+PROD0225,Data Science,Books,Books Items,3990.32
+PROD0226,Shirt,Clothing,Clothing Items,1554.98
+PROD0227,Smart Watch,Electronics,Electronics Items,1617.34
+PROD0228,Shirt,Clothing,Clothing Items,287.76
+PROD0229,Bluetooth Speaker,Electronics,Electronics Items,3475.05
+PROD0230,Data Science,Books,Books Items,1660.09
+PROD0231,Shirt,Clothing,Clothing Items,4224.0
+PROD0232,T-Shirt,Clothing,Clothing Items,1287.66
+PROD0233,Python Basics,Books,Books Items,230.62
+PROD0234,Laptop,Electronics,Electronics Items,1862.87
+PROD0235,T-Shirt,Clothing,Clothing Items,1514.19
+PROD0236,Headphones,Electronics,Electronics Items,1523.22
+PROD0237,Sofa,Home,Home Items,460.07
+PROD0238,Headphones,Electronics,Electronics Items,2759.07
+PROD0239,Lamp,Home,Home Items,924.66
+PROD0240,Jacket,Clothing,Clothing Items,1139.78
+PROD0241,Bluetooth Speaker,Electronics,Electronics Items,4203.09
+PROD0242,Mobile Phone,Electronics,Electronics Items,4012.42
+PROD0243,Laptop,Electronics,Electronics Items,4212.83
+PROD0244,Shirt,Clothing,Clothing Items,4257.87
+PROD0245,Lamp,Home,Home Items,4349.85
+PROD0246,Bluetooth Speaker,Electronics,Electronics Items,2870.42
+PROD0247,Bed,Home,Home Items,562.23
+PROD0248,Sofa,Home,Home Items,878.76
+PROD0249,Smart Watch,Electronics,Electronics Items,3286.9
+PROD0250,Hoodie,Clothing,Clothing Items,3369.37
+PROD0251,Mobile Phone,Electronics,Electronics Items,4795.02
+PROD0252,Mobile Phone,Electronics,Electronics Items,552.38
+PROD0253,Shirt,Clothing,Clothing Items,2565.63
+PROD0254,Dining Table,Home,Home Items,4652.63
+PROD0255,Lamp,Home,Home Items,4375.69
+PROD0256,Data Science,Books,Books Items,4414.64
+PROD0257,Headphones,Electronics,Electronics Items,233.3
+PROD0258,Sofa,Home,Home Items,742.26
+PROD0259,Chair,Home,Home Items,3298.52
+PROD0260,Mobile Phone,Electronics,Electronics Items,3977.91
+PROD0261,Chair,Home,Home Items,1840.63
+PROD0262,Dining Table,Home,Home Items,1519.78
+PROD0263,Dining Table,Home,Home Items,4746.23
+PROD0264,Machine Learning,Books,Books Items,4991.49
+PROD0265,Bluetooth Speaker,Electronics,Electronics Items,253.28
+PROD0266,Lamp,Home,Home Items,4704.91
+PROD0267,Hoodie,Clothing,Clothing Items,1069.74
+PROD0268,   HOODIE   ,Clothing,Clothing Items,2968.19
+PROD0269,Bed,Home,Home Items,1503.21
+PROD0270,Python Basics,Books,Books Items,1750.88
+PROD0271,Machine Learning,Books,Books Items,4219.32
+PROD0272,Lamp,Home,Home Items,2316.21
+PROD0273,Headphones,Electronics,Electronics Items,3668.98
+PROD0274,T-Shirt,Clothing,Clothing Items,1303.96
+PROD0275,Chair,Home,Home Items,2223.39
+PROD0276,Headphones,Electronics,Electronics Items,3921.01
+PROD0277,Jacket,Clothing,Clothing Items,3585.32
+PROD0278,Lamp,Home,Home Items,3559.81
+PROD0279,Bluetooth Speaker,Electronics,Electronics Items,3525.33
+PROD0280,Dining Table,Home,Home Items,3784.97
+PROD0281,Bed,Home,Home Items,4512.18
+PROD0282,Data Science,Books,Books Items,4720.12
+PROD0283,Web Development,Books,Books Items,1952.5
+PROD0284,Hoodie,Clothing,Clothing Items,1244.12
+PROD0285,Mobile Phone,Electronics,Electronics Items,2567.8
+PROD0286,Headphones,Electronics,Electronics Items,3750.45
+PROD0287,Jeans,Clothing,Clothing Items,109.51
+PROD0288,Sofa,Home,Home Items,1380.88
+PROD0289,Data Science,Books,Books Items,2909.46
+PROD0290,SQL Guide,Books,Books Items,665.95
+PROD0291,Lamp,Home,Home Items,2358.24
+PROD0292,Headphones,Electronics,Electronics Items,2582.11
+PROD0293,   PYTHON BASICS   ,Books,Books Items,3502.09
+PROD0294,Lamp,Home,Home Items,3627.51
+PROD0295,Web Development,Books,Books Items,4643.66
+PROD0296,Laptop,Electronics,Electronics Items,144.03
+PROD0297,Bluetooth Speaker,Electronics,Electronics Items,4366.62
+PROD0298,Lamp,Home,Home Items,759.38
+PROD0299,Bed,Home,Home Items,4433.49
+PROD0300,Hoodie,Clothing,Clothing Items,2643.22
+PROD0301,Hoodie,Clothing,Clothing Items,1578.64
+PROD0302,Bed,Home,Home Items,4560.78
+PROD0303,Python Basics,Books,Books Items,4416.01
+PROD0304,Bed,Home,Home Items,717.76
+PROD0305,Dining Table,Home,Home Items,2967.18
+PROD0306,Jeans,Clothing,Clothing Items,2968.68
+PROD0307,Bed,Home,Home Items,3006.66
+PROD0308,Lamp,Home,Home Items,725.02
+PROD0309,Laptop,Electronics,Electronics Items,1993.68
+PROD0310,Headphones,Electronics,Electronics Items,3695.27
+PROD0311,Dining Table,Home,Home Items,4219.96
+PROD0312,Python Basics,Books,Books Items,749.05
+PROD0313,Dining Table,Home,Home Items,1217.87
+PROD0314,SQL Guide,Books,Books Items,1054.75
+PROD0315,   PYTHON BASICS   ,Books,Books Items,3096.52
+PROD0316,Chair,Home,Home Items,2777.89
+PROD0317,Web Development,Books,Books Items,3699.84
+PROD0318,Bed,Home,Home Items,266.14
+PROD0319,Web Development,Books,Books Items,2921.98
+PROD0320,Lamp,Home,Home Items,3321.22
+PROD0321,Bed,Home,Home Items,3422.1
+PROD0322,Chair,Home,Home Items,787.64
+PROD0323,Jacket,Clothing,Clothing Items,4890.45
+PROD0324,SQL Guide,Books,Books Items,1818.78
+PROD0325,Mobile Phone,Electronics,Electronics Items,1351.97
+PROD0326,Data Science,Books,Books Items,210.38
+PROD0327,Jeans,Clothing,Clothing Items,1104.49
+PROD0328,Laptop,Electronics,Electronics Items,3676.47
+PROD0329,Dining Table,Home,Home Items,2619.17
+PROD0330,Sofa,Home,Home Items,447.41
+PROD0331,T-Shirt,Clothing,Clothing Items,3330.54
+PROD0332,Bluetooth Speaker,Electronics,Electronics Items,805.98
+PROD0333,T-Shirt,Clothing,Clothing Items,2678.27
+PROD0334,SQL Guide,Books,Books Items,732.67
+PROD0335,Jacket,Clothing,Clothing Items,1607.25
+PROD0336,Bluetooth Speaker,Electronics,Electronics Items,521.3
+PROD0337,Lamp,Home,Home Items,2995.44
+PROD0338,Bluetooth Speaker,Electronics,Electronics Items,2509.63
+PROD0339,Headphones,Electronics,Electronics Items,1566.69
+PROD0340,Jeans,Clothing,Clothing Items,868.13
+PROD0341,Shirt,Clothing,Clothing Items,4031.02
+PROD0342,T-Shirt,Clothing,Clothing Items,4370.89
+PROD0343,Data Science,Books,Books Items,2688.65
+PROD0344,Machine Learning,Books,Books Items,965.26
+PROD0345,Jacket,Clothing,Clothing Items,2157.87
+PROD0346,Sofa,Home,Home Items,3895.12
+PROD0347,Machine Learning,Books,Books Items,4670.86
+PROD0348,Chair,Home,Home Items,769.19
+PROD0349,Jacket,Clothing,Clothing Items,1750.77
+PROD0350,Lamp,Home,Home Items,670.96
+PROD0351,Chair,Home,Home Items,4624.43
+PROD0352,T-Shirt,Clothing,Clothing Items,2775.59
+PROD0353,Machine Learning,Books,Books Items,1483.0
+PROD0354,Hoodie,Clothing,Clothing Items,2713.76
+PROD0355,Sofa,Home,Home Items,1054.63
+PROD0356,Bluetooth Speaker,Electronics,Electronics Items,1027.02
+PROD0357,Web Development,Books,Books Items,1527.23
+PROD0358,Jeans,Clothing,Clothing Items,2259.3
+PROD0359,Headphones,Electronics,Electronics Items,2281.75
+PROD0360,Jacket,Clothing,Clothing Items,3882.96
+PROD0361,Mobile Phone,Electronics,Electronics Items,3830.1
+PROD0362,Smart Watch,Electronics,Electronics Items,3448.29
+PROD0363,Machine Learning,Books,Books Items,4119.9
+PROD0364,Web Development,Books,Books Items,3746.6
+PROD0365,Bluetooth Speaker,Electronics,Electronics Items,2196.7
+PROD0366,Shirt,Clothing,Clothing Items,3252.39
+PROD0367,Bed,Home,Home Items,2912.01
+PROD0368,Python Basics,Books,Books Items,345.95
+PROD0369,SQL Guide,Books,Books Items,4084.47
+PROD0370,Smart Watch,Electronics,Electronics Items,4157.34
+PROD0371,Jacket,Clothing,Clothing Items,3971.57
+PROD0372,Lamp,Home,Home Items,2947.55
+PROD0373,Data Science,Books,Books Items,2214.95
+PROD0374,Lamp,Home,Home Items,1148.04
+PROD0375,Headphones,Electronics,Electronics Items,815.29
+PROD0376,Lamp,Home,Home Items,1897.72
+PROD0377,SQL Guide,Books,Books Items,4331.4
+PROD0378,Mobile Phone,Electronics,Electronics Items,4271.32
+PROD0379,Data Science,Books,Books Items,3532.03
+PROD0380,Machine Learning,Books,Books Items,2092.59
+PROD0381,Headphones,Electronics,Electronics Items,4754.09
+PROD0382,Shirt,Clothing,Clothing Items,4169.17
+PROD0383,Hoodie,Clothing,Clothing Items,394.85
+PROD0384,Bed,Home,Home Items,3378.41
+PROD0385,Data Science,Books,Books Items,1707.15
+PROD0386,Bluetooth Speaker,Electronics,Electronics Items,850.32
+PROD0387,SQL Guide,Books,Books Items,4116.99
+PROD0388,Laptop,Electronics,Electronics Items,4843.65
+PROD0389,Machine Learning,Books,Books Items,332.44
+PROD0390,Lamp,Home,Home Items,4618.48
+PROD0391,Bluetooth Speaker,Electronics,Electronics Items,4524.66
+PROD0392,Dining Table,Home,Home Items,2722.84
+PROD0393,Bluetooth Speaker,Electronics,Electronics Items,1528.35
+PROD0394,Laptop,Electronics,Electronics Items,4140.61
+PROD0395,Sofa,Home,Home Items,199.94
+PROD0396,Smart Watch,Electronics,Electronics Items,1300.06
+PROD0397,SQL Guide,Books,Books Items,178.41
+PROD0398,Laptop,Electronics,Electronics Items,4275.05
+PROD0399,Sofa,Home,Home Items,4729.02
+PROD0400,Chair,Home,Home Items,294.46
+PROD0401,Bluetooth Speaker,Electronics,Electronics Items,1966.54
+PROD0402,Jeans,Clothing,Clothing Items,3317.19
+PROD0403,Bed,Home,Home Items,3456.54
+PROD0404,Mobile Phone,Electronics,Electronics Items,2072.98
+PROD0405,Hoodie,Clothing,Clothing Items,231.15
+PROD0406,Sofa,Home,Home Items,4690.18
+PROD0407,Machine Learning,Books,Books Items,1991.09
+PROD0408,Python Basics,Books,Books Items,480.05
+PROD0409,T-Shirt,Clothing,Clothing Items,1953.56
+PROD0410,Dining Table,Home,Home Items,1360.67
+PROD0411,Web Development,Books,Books Items,3589.69
+PROD0412,Mobile Phone,Electronics,Electronics Items,3044.12
+PROD0413,Shirt,Clothing,Clothing Items,4249.68
+PROD0414,Hoodie,Clothing,Clothing Items,4802.91
+PROD0415,SQL Guide,Books,Books Items,3296.44
+PROD0416,Headphones,Electronics,Electronics Items,2077.98
+PROD0417,Data Science,Books,Books Items,267.26
+PROD0418,Chair,Home,Home Items,1520.0
+PROD0419,Shirt,Clothing,Clothing Items,3784.78
+PROD0420,Headphones,Electronics,Electronics Items,4931.96
+PROD0421,Smart Watch,Electronics,Electronics Items,4967.23
+PROD0422,T-Shirt,Clothing,Clothing Items,1887.27
+PROD0423,Jeans,Clothing,Clothing Items,205.76
+PROD0424,Headphones,Electronics,Electronics Items,493.53
+PROD0425,Hoodie,Clothing,Clothing Items,915.38
+PROD0426,Headphones,Electronics,Electronics Items,4469.97
+PROD0427,Shirt,Clothing,Clothing Items,3830.51
+PROD0428,Machine Learning,Books,Books Items,3184.61
+PROD0429,Dining Table,Home,Home Items,3089.75
+PROD0430,Bluetooth Speaker,Electronics,Electronics Items,3047.42
+PROD0431,Machine Learning,Books,Books Items,1297.93
+PROD0432,Bed,Home,Home Items,179.07
+PROD0433,Laptop,Electronics,Electronics Items,3171.95
+PROD0434,Data Science,Books,Books Items,2606.9
+PROD0435,Web Development,Books,Books Items,3248.75
+PROD0436,Mobile Phone,Electronics,Electronics Items,1790.27
+PROD0437,Headphones,Electronics,Electronics Items,1968.56
+PROD0438,Lamp,Home,Home Items,763.32
+PROD0439,Laptop,Electronics,Electronics Items,3501.46
+PROD0440,Hoodie,Clothing,Clothing Items,3993.69
+PROD0441,Headphones,Electronics,Electronics Items,1210.03
+PROD0442,Bluetooth Speaker,Electronics,Electronics Items,928.07
+PROD0443,SQL Guide,Books,Books Items,3565.63
+PROD0444,Jacket,Clothing,Clothing Items,785.37
+PROD0445,Bluetooth Speaker,Electronics,Electronics Items,1043.92
+PROD0446,Jacket,Clothing,Clothing Items,1706.64
+PROD0447,Smart Watch,Electronics,Electronics Items,1361.85
+PROD0448,Bed,Home,Home Items,2235.46
+PROD0449,Chair,Home,Home Items,3466.6
+PROD0450,Lamp,Home,Home Items,506.85
+PROD0451,SQL Guide,Books,Books Items,2072.21
+PROD0452,Machine Learning,Books,Books Items,4254.68
+PROD0453,Shirt,Clothing,Clothing Items,4728.22
+PROD0454,Lamp,Home,Home Items,1303.1
+PROD0455,Mobile Phone,Electronics,Electronics Items,197.48
+PROD0456,Bluetooth Speaker,Electronics,Electronics Items,3090.44
+PROD0457,Mobile Phone,Electronics,Electronics Items,538.73
+PROD0458,Laptop,Electronics,Electronics Items,4042.49
+PROD0459,Hoodie,Clothing,Clothing Items,4844.53
+PROD0460,Smart Watch,Electronics,Electronics Items,1699.75
+PROD0461,Machine Learning,Books,Books Items,457.04
+PROD0462,SQL Guide,Books,Books Items,1855.54
+PROD0463,Jacket,Clothing,Clothing Items,134.0
+PROD0464,Python Basics,Books,Books Items,1506.71
+PROD0465,Bed,Home,Home Items,4530.86
+PROD0466,T-Shirt,Clothing,Clothing Items,4829.95
+PROD0467,Data Science,Books,Books Items,1912.36
+PROD0468,T-Shirt,Clothing,Clothing Items,4644.33
+PROD0469,Bed,Home,Home Items,1487.89
+PROD0470,Smart Watch,Electronics,Electronics Items,4024.79
+PROD0471,Chair,Home,Home Items,717.17
+PROD0472,Dining Table,Home,Home Items,2407.81
+PROD0473,Mobile Phone,Electronics,Electronics Items,2306.05
+PROD0474,Jeans,Clothing,Clothing Items,2020.78
+PROD0475,T-Shirt,Clothing,Clothing Items,1958.99
+PROD0476,SQL Guide,Books,Books Items,3327.78
+PROD0477,Python Basics,Books,Books Items,2584.24
+PROD0478,Headphones,Electronics,Electronics Items,1532.93
+PROD0479,Lamp,Home,Home Items,2555.57
+PROD0480,Jacket,Clothing,Clothing Items,1934.88
+PROD0481,Chair,Home,Home Items,3758.26
+PROD0482,Lamp,Home,Home Items,914.14
+PROD0483,Python Basics,Books,Books Items,434.71
+PROD0484,Dining Table,Home,Home Items,4057.21
+PROD0485,Web Development,Books,Books Items,4503.63
+PROD0486,Dining Table,Home,Home Items,2221.97
+PROD0487,Web Development,Books,Books Items,4845.84
+PROD0488,Python Basics,Books,Books Items,4450.55
+PROD0489,Jeans,Clothing,Clothing Items,853.0
+PROD0490,Chair,Home,Home Items,3675.43
+PROD0491,Sofa,Home,Home Items,863.44
+PROD0492,Sofa,Home,Home Items,3057.95
+PROD0493,Web Development,Books,Books Items,3326.3
+PROD0494,Bluetooth Speaker,Electronics,Electronics Items,3234.44
+PROD0495,Lamp,Home,Home Items,1307.48
+PROD0496,   PYTHON BASICS   ,Books,Books Items,2789.72
+PROD0497,T-Shirt,Clothing,Clothing Items,4137.94
+PROD0498,Laptop,Electronics,Electronics Items,1041.8
+PROD0499,Chair,Home,Home Items,2263.16
+PROD0500,Python Basics,Books,Books Items,1017.57
